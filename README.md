@@ -27,19 +27,19 @@ conda install seaborn -y
 ```
 ## Examples
 
-![ScreenShot_1.png](ScreenShot_1.png)
+![rolling_std.png](rolling_std.png)
 
 ---
 
-![ScreenShot_2.png](ScreenShot_2.png)
+![sharpe_ratios.png](sharpe_ratios.png)
 
 ---
 
-![ScreenShot_3.png](ScreenShot_3.png)
+![rolling_beta.png](rolling_beta.png)
 
 ---
 
-![ScreenShot_4.png](ScreenShot_4.png)
+![rolling_beta_tiger.png](rolling_beta_tiger.png)
 
 ---
 
@@ -48,7 +48,7 @@ conda install seaborn -y
 
 Brought to you by Ksenia Gorska as part of the UC Berkeley Extension Bootcamp: UCB-VIRT-FIN-PT-06-2021-U-B-MW Ksenia Gorska
  e-mail: kseniagorska@icloud.com 
- linkdein: [linkedin] (https://www.linkedin.com/in/ksenia-gorska/)
+[linkedin] (https://www.linkedin.com/in/ksenia-gorska/)
 
 ## License
 
