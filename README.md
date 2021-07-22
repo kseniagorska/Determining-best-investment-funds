@@ -1,4 +1,4 @@
-# Determining-best-investment-funds
+# Determining best investment funds
 This project evaluates four new investment options for inclusion in the client portfolios. It determines the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 This Jupyter notebook contains the  data preparation, analysis, and visualizations for key risk and return metrics. 
 
