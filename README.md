@@ -27,19 +27,19 @@ conda install seaborn -y
 ```
 ## Examples
 
-![rolling_std](rolling_std.png)
+![Rolling Standard Deviation](Images/rolling_std.png)
 
 ---
 
-![sharpe_ratios](sharpe_ratios.png)
+![sharpe_ratios](Images/sharpe_ratios.png)
 
 ---
 
-![rolling_beta](rolling_beta.png)
+![rolling_beta](Images/rolling_beta.png)
 
 ---
 
-![rolling_beta_tiger](rolling_beta_tiger.png)
+![rolling_beta_tiger](Images/rolling_beta_tiger.png)
 
 ---
 
